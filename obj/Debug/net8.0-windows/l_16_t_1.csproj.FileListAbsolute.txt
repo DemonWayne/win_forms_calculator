@@ -1,0 +1,16 @@
+D:\amy\!college\practice\l_16_t_1\bin\Debug\net8.0-windows\l_16_t_1.exe
+D:\amy\!college\practice\l_16_t_1\bin\Debug\net8.0-windows\l_16_t_1.deps.json
+D:\amy\!college\practice\l_16_t_1\bin\Debug\net8.0-windows\l_16_t_1.runtimeconfig.json
+D:\amy\!college\practice\l_16_t_1\bin\Debug\net8.0-windows\l_16_t_1.dll
+D:\amy\!college\practice\l_16_t_1\bin\Debug\net8.0-windows\l_16_t_1.pdb
+D:\amy\!college\practice\l_16_t_1\obj\Debug\net8.0-windows\l_16_t_1.Form1.resources
+D:\amy\!college\practice\l_16_t_1\obj\Debug\net8.0-windows\l_16_t_1.csproj.GenerateResource.cache
+D:\amy\!college\practice\l_16_t_1\obj\Debug\net8.0-windows\l_16_t_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\amy\!college\practice\l_16_t_1\obj\Debug\net8.0-windows\l_16_t_1.AssemblyInfoInputs.cache
+D:\amy\!college\practice\l_16_t_1\obj\Debug\net8.0-windows\l_16_t_1.AssemblyInfo.cs
+D:\amy\!college\practice\l_16_t_1\obj\Debug\net8.0-windows\l_16_t_1.csproj.CoreCompileInputs.cache
+D:\amy\!college\practice\l_16_t_1\obj\Debug\net8.0-windows\l_16_t_1.dll
+D:\amy\!college\practice\l_16_t_1\obj\Debug\net8.0-windows\refint\l_16_t_1.dll
+D:\amy\!college\practice\l_16_t_1\obj\Debug\net8.0-windows\l_16_t_1.pdb
+D:\amy\!college\practice\l_16_t_1\obj\Debug\net8.0-windows\l_16_t_1.genruntimeconfig.cache
+D:\amy\!college\practice\l_16_t_1\obj\Debug\net8.0-windows\ref\l_16_t_1.dll
