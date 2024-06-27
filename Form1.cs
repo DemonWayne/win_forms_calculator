@@ -156,7 +156,6 @@ namespace l_16_t_1
             int num;
             int.TryParse(e.KeyChar.ToString(), out num);
 
-            top_val.Text = $"{e.KeyChar}";
             if ((num >= 1 && num <= 9) || e.KeyChar == '0') add_number(e.KeyChar.ToString());
             else if (Regex.IsMatch(e.KeyChar.ToString(), @"$(?<=(\+|\-|\*|\/|\%))")) pre_op(e.KeyChar.ToString());
             else if (e.KeyChar == '=' || e.KeyChar == '\r') calc();
